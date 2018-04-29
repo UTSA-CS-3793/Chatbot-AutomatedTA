@@ -1,0 +1,4 @@
+what's an int?
+what's a string?
+how do i query something in jdbc?
+how do i print somthing to the screen?
